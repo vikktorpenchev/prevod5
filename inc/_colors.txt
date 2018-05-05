@@ -1,0 +1,12 @@
+You can change the color of the floating text. No need to hack at the background-color. Here's your available colors (and MDL codes) - https://rack.pub/swatch.
+
+mdl-color-text--yellow-500 ---- цвят на текста
+mdl-color--yellow-500 --------- цвят на бекграунда
+
+
+https://codepen.io/rhroyston/pen/YWVBkJ
+
+
+generate a color scheme:
+
+https://getmdl.io/customize/index.html#cdn-code
